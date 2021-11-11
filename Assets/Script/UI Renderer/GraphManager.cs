@@ -36,6 +36,7 @@ public class GraphManager : MonoBehaviour
 
     [Header("Ma")]
     public InputField maInput;
+    public FlexibleColorPicker maColorPicker;
     public GameObject maFeb;
     public Transform parent;
 
@@ -126,7 +127,7 @@ public class GraphManager : MonoBehaviour
     {
         GameObject ma = Instantiate(maFeb, Vector3.zero, Quaternion.identity) as GameObject;
         ma.GetComponent<MovingAvergeRenderer>()._manager = this;
-        ma.GetComponent<MovingAvergeRenderer>().color = new Color(Random.RandomRange(0, 255), Random.RandomRange(0, 255), Random.RandomRange(0, 255), 1);
+        ma.GetComponent<MovingAvergeRenderer>().color = maColorPicker.color;
         ma.GetComponent<MovingAvergeRenderer>().Data = Data;
         ma.GetComponent<MovingAvergeRenderer>().timeFrame = int.Parse(maInput.text);
         ma.transform.SetParent(parent, false);
