@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 /*  =====================================================
 *
 *                       _oo0oo_
@@ -31,6 +32,12 @@ public class GraphManager : MonoBehaviour
 {
     public CSVReader Data;
     public GraphRenderer graph;
+    public List<MovingAvergeRenderer> movingAverages;
+
+    [Header("Ma")]
+    public InputField maInput;
+    public GameObject maFeb;
+    public Transform parent;
 
     [Header("Customize")]
     public int upperMarginPercent;
@@ -67,6 +74,10 @@ public class GraphManager : MonoBehaviour
     {
         updateConfing();
         graph.UpdateGraph();
+        foreach (MovingAvergeRenderer item in movingAverages)
+        {
+            item.updateLine();
+        }
     }
 
     void updateConfing()
@@ -79,7 +90,7 @@ public class GraphManager : MonoBehaviour
         XV_min = 0;
         YV_min = 0;
 
-        candleWidth = XV_max / (Data.DATA.Length + findPercentage(rightMarginPercent, Data.DATA.Length));
+        candleWidth = XV_max / (Data.DATA.Length + Mathf.RoundToInt(findPercentage(rightMarginPercent, Data.DATA.Length)));
         min = Data.minValue();
         max = Data.maxValue();
         min -= (int)findPercentage(dowerMarginPercent, max);
@@ -109,5 +120,17 @@ public class GraphManager : MonoBehaviour
     public static int convertCoordinateXToViewportX(int posX)
     {
         return Mathf.RoundToInt(XV_min + (posX - XW_min) * SX);
+    }
+
+    public void createMaLine()
+    {
+        GameObject ma = Instantiate(maFeb, Vector3.zero, Quaternion.identity) as GameObject;
+        ma.GetComponent<MovingAvergeRenderer>()._manager = this;
+        ma.GetComponent<MovingAvergeRenderer>().color = new Color(Random.RandomRange(0, 255), Random.RandomRange(0, 255), Random.RandomRange(0, 255), 1);
+        ma.GetComponent<MovingAvergeRenderer>().Data = Data;
+        ma.GetComponent<MovingAvergeRenderer>().timeFrame = int.Parse(maInput.text);
+        ma.transform.SetParent(parent, false);
+
+        movingAverages.Add(ma.GetComponent<MovingAvergeRenderer>());
     }
 }

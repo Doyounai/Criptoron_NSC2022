@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CSV_DATA: {fileID: 4900000, guid: 6254b91c7465d8e43bf805b42952b550, type: 3}
   startRow: 1
-  endRow: 100
+  endRow: 318
   DATA:
   - Date: 2020-11-01
     Open: 13780
@@ -511,3 +511,1093 @@ MonoBehaviour:
     Close: 38903
     Hightest: 39621
     Lowest: 37446
+  - Date: 2021-02-08
+    Open: 38886
+    Close: 46196
+    Hightest: 46203
+    Lowest: 38076
+  - Date: 2021-02-09
+    Open: 46184
+    Close: 46481
+    Hightest: 48003
+    Lowest: 45166
+  - Date: 2021-02-10
+    Open: 46469
+    Close: 44918
+    Hightest: 47145
+    Lowest: 43881
+  - Date: 2021-02-11
+    Open: 44898
+    Close: 47909
+    Hightest: 48463
+    Lowest: 44187
+  - Date: 2021-02-12
+    Open: 47877
+    Close: 47504
+    Hightest: 48745
+    Lowest: 46424
+  - Date: 2021-02-13
+    Open: 47491
+    Close: 47105
+    Hightest: 48047
+    Lowest: 46392
+  - Date: 2021-02-14
+    Open: 47114
+    Close: 48717
+    Hightest: 49487
+    Lowest: 47114
+  - Date: 2021-02-15
+    Open: 48696
+    Close: 47945
+    Hightest: 48875
+    Lowest: 46347
+  - Date: 2021-02-16
+    Open: 47944
+    Close: 49199
+    Hightest: 50341
+    Lowest: 47201
+  - Date: 2021-02-17
+    Open: 49207
+    Close: 52149
+    Hightest: 52533
+    Lowest: 49072
+  - Date: 2021-02-18
+    Open: 52140
+    Close: 51679
+    Hightest: 52474
+    Lowest: 51015
+  - Date: 2021-02-19
+    Open: 51675
+    Close: 55888
+    Hightest: 56113
+    Lowest: 50937
+  - Date: 2021-02-20
+    Open: 55887
+    Close: 56099
+    Hightest: 57505
+    Lowest: 54626
+  - Date: 2021-02-21
+    Open: 56068
+    Close: 57539
+    Hightest: 58330
+    Lowest: 55672
+  - Date: 2021-02-22
+    Open: 57532
+    Close: 54207
+    Hightest: 57533
+    Lowest: 48967
+  - Date: 2021-02-23
+    Open: 54204
+    Close: 48824
+    Hightest: 54204
+    Lowest: 45290
+  - Date: 2021-02-24
+    Open: 48835
+    Close: 49705
+    Hightest: 51290
+    Lowest: 47213
+  - Date: 2021-02-25
+    Open: 49709
+    Close: 47093
+    Hightest: 51948
+    Lowest: 47093
+  - Date: 2021-02-26
+    Open: 47180
+    Close: 46339
+    Hightest: 48370
+    Lowest: 44454
+  - Date: 2021-02-27
+    Open: 46344
+    Close: 46188
+    Hightest: 48253
+    Lowest: 45269
+  - Date: 2021-02-28
+    Open: 46194
+    Close: 45137
+    Hightest: 46716
+    Lowest: 43241
+  - Date: 2021-03-01
+    Open: 45159
+    Close: 49631
+    Hightest: 49784
+    Lowest: 45115
+  - Date: 2021-03-02
+    Open: 49612
+    Close: 48378
+    Hightest: 50127
+    Lowest: 47228
+  - Date: 2021-03-03
+    Open: 48415
+    Close: 50538
+    Hightest: 52535
+    Lowest: 48274
+  - Date: 2021-03-04
+    Open: 50522
+    Close: 48561
+    Hightest: 51735
+    Lowest: 47656
+  - Date: 2021-03-05
+    Open: 48527
+    Close: 48927
+    Hightest: 49396
+    Lowest: 46542
+  - Date: 2021-03-06
+    Open: 48899
+    Close: 48912
+    Hightest: 49147
+    Lowest: 47257
+  - Date: 2021-03-07
+    Open: 48918
+    Close: 51206
+    Hightest: 51384
+    Lowest: 48918
+  - Date: 2021-03-08
+    Open: 51174
+    Close: 52246
+    Hightest: 52314
+    Lowest: 49506
+  - Date: 2021-03-09
+    Open: 52272
+    Close: 54824
+    Hightest: 54824
+    Lowest: 51981
+  - Date: 2021-03-10
+    Open: 54824
+    Close: 56008
+    Hightest: 57258
+    Lowest: 53290
+  - Date: 2021-03-11
+    Open: 55963
+    Close: 57805
+    Hightest: 58091
+    Lowest: 54484
+  - Date: 2021-03-12
+    Open: 57821
+    Close: 57332
+    Hightest: 57996
+    Lowest: 55376
+  - Date: 2021-03-13
+    Open: 57343
+    Close: 61243
+    Hightest: 61683
+    Lowest: 56217
+  - Date: 2021-03-14
+    Open: 61221
+    Close: 59302
+    Hightest: 61597
+    Lowest: 59302
+  - Date: 2021-03-15
+    Open: 59267
+    Close: 55907
+    Hightest: 60540
+    Lowest: 55393
+  - Date: 2021-03-16
+    Open: 55840
+    Close: 56804
+    Hightest: 56833
+    Lowest: 53555
+  - Date: 2021-03-17
+    Open: 56825
+    Close: 58870
+    Hightest: 58969
+    Lowest: 54528
+  - Date: 2021-03-18
+    Open: 58893
+    Close: 57858
+    Hightest: 60116
+    Lowest: 54253
+  - Date: 2021-03-19
+    Open: 57850
+    Close: 58346
+    Hightest: 59498
+    Lowest: 56643
+  - Date: 2021-03-20
+    Open: 58332
+    Close: 58313
+    Hightest: 60031
+    Lowest: 58213
+  - Date: 2021-03-21
+    Open: 58309
+    Close: 57523
+    Hightest: 58767
+    Lowest: 56005
+  - Date: 2021-03-22
+    Open: 57517
+    Close: 54529
+    Hightest: 58471
+    Lowest: 54288
+  - Date: 2021-03-23
+    Open: 54511
+    Close: 54738
+    Hightest: 55985
+    Lowest: 53470
+  - Date: 2021-03-24
+    Open: 54710
+    Close: 52774
+    Hightest: 57262
+    Lowest: 52514
+  - Date: 2021-03-25
+    Open: 52726
+    Close: 51704
+    Hightest: 53392
+    Lowest: 50856
+  - Date: 2021-03-26
+    Open: 51683
+    Close: 55137
+    Hightest: 55137
+    Lowest: 51579
+  - Date: 2021-03-27
+    Open: 55137
+    Close: 55973
+    Hightest: 56568
+    Lowest: 54242
+  - Date: 2021-03-28
+    Open: 55974
+    Close: 55950
+    Hightest: 56610
+    Lowest: 55071
+  - Date: 2021-03-29
+    Open: 55947
+    Close: 57750
+    Hightest: 58342
+    Lowest: 55139
+  - Date: 2021-03-30
+    Open: 57750
+    Close: 58917
+    Hightest: 59447
+    Lowest: 57251
+  - Date: 2021-03-31
+    Open: 58930
+    Close: 58918
+    Hightest: 59930
+    Lowest: 57726
+  - Date: 2021-04-01
+    Open: 58926
+    Close: 59095
+    Hightest: 59586
+    Lowest: 58505
+  - Date: 2021-04-02
+    Open: 59098
+    Close: 59384
+    Hightest: 60267
+    Lowest: 58869
+  - Date: 2021-04-03
+    Open: 59397
+    Close: 57603
+    Hightest: 60110
+    Lowest: 57603
+  - Date: 2021-04-04
+    Open: 57604
+    Close: 58758
+    Hightest: 58913
+    Lowest: 57168
+  - Date: 2021-04-05
+    Open: 58760
+    Close: 59057
+    Hightest: 59891
+    Lowest: 57694
+  - Date: 2021-04-06
+    Open: 59171
+    Close: 58192
+    Hightest: 59479
+    Lowest: 57646
+  - Date: 2021-04-07
+    Open: 58186
+    Close: 56048
+    Hightest: 58731
+    Lowest: 55604
+  - Date: 2021-04-08
+    Open: 56099
+    Close: 58323
+    Hightest: 58338
+    Lowest: 55879
+  - Date: 2021-04-09
+    Open: 58326
+    Close: 58245
+    Hightest: 58937
+    Lowest: 57807
+  - Date: 2021-04-10
+    Open: 58253
+    Close: 59793
+    Hightest: 61276
+    Lowest: 58038
+  - Date: 2021-04-11
+    Open: 59846
+    Close: 60204
+    Hightest: 60790
+    Lowest: 59289
+  - Date: 2021-04-12
+    Open: 60175
+    Close: 59893
+    Hightest: 61253
+    Lowest: 59589
+  - Date: 2021-04-13
+    Open: 59890
+    Close: 63503
+    Hightest: 63742
+    Lowest: 59869
+  - Date: 2021-04-14
+    Open: 63523
+    Close: 63109
+    Hightest: 64863
+    Lowest: 61554
+  - Date: 2021-04-15
+    Open: 63075
+    Close: 63314
+    Hightest: 63821
+    Lowest: 62208
+  - Date: 2021-04-16
+    Open: 63258
+    Close: 61572
+    Hightest: 63594
+    Lowest: 60222
+  - Date: 2021-04-17
+    Open: 61529
+    Close: 60683
+    Hightest: 62572
+    Lowest: 60361
+  - Date: 2021-04-18
+    Open: 60701
+    Close: 56216
+    Hightest: 61057
+    Lowest: 52829
+  - Date: 2021-04-19
+    Open: 56191
+    Close: 55724
+    Hightest: 57520
+    Lowest: 54368
+  - Date: 2021-04-20
+    Open: 55681
+    Close: 56473
+    Hightest: 57062
+    Lowest: 53448
+  - Date: 2021-04-21
+    Open: 56471
+    Close: 53906
+    Hightest: 56757
+    Lowest: 53695
+  - Date: 2021-04-22
+    Open: 53857
+    Close: 51762
+    Hightest: 55410
+    Lowest: 50583
+  - Date: 2021-04-23
+    Open: 51739
+    Close: 51093
+    Hightest: 52120
+    Lowest: 47714
+  - Date: 2021-04-24
+    Open: 51143
+    Close: 50050
+    Hightest: 51167
+    Lowest: 48805
+  - Date: 2021-04-25
+    Open: 50052
+    Close: 49004
+    Hightest: 50506
+    Lowest: 47159
+  - Date: 2021-04-26
+    Open: 49077
+    Close: 54021
+    Hightest: 54288
+    Lowest: 48852
+  - Date: 2021-04-27
+    Open: 54030
+    Close: 55033
+    Hightest: 55416
+    Lowest: 53319
+  - Date: 2021-04-28
+    Open: 55036
+    Close: 54824
+    Hightest: 56227
+    Lowest: 53887
+  - Date: 2021-04-29
+    Open: 54858
+    Close: 53555
+    Hightest: 55115
+    Lowest: 52418
+  - Date: 2021-04-30
+    Open: 53568
+    Close: 57750
+    Hightest: 57900
+    Lowest: 53129
+  - Date: 2021-05-01
+    Open: 57714
+    Close: 57828
+    Hightest: 58448
+    Lowest: 57052
+  - Date: 2021-05-02
+    Open: 57825
+    Close: 56631
+    Hightest: 57902
+    Lowest: 56141
+  - Date: 2021-05-03
+    Open: 56620
+    Close: 57200
+    Hightest: 58973
+    Lowest: 56590
+  - Date: 2021-05-04
+    Open: 57214
+    Close: 53333
+    Hightest: 57214
+    Lowest: 53191
+  - Date: 2021-05-05
+    Open: 53252
+    Close: 57424
+    Hightest: 57911
+    Lowest: 52969
+  - Date: 2021-05-06
+    Open: 57441
+    Close: 56396
+    Hightest: 58363
+    Lowest: 55382
+  - Date: 2021-05-07
+    Open: 56413
+    Close: 57356
+    Hightest: 58606
+    Lowest: 55321
+  - Date: 2021-05-08
+    Open: 57352
+    Close: 58803
+    Hightest: 59464
+    Lowest: 56975
+  - Date: 2021-05-09
+    Open: 58877
+    Close: 58232
+    Hightest: 59210
+    Lowest: 56482
+  - Date: 2021-05-10
+    Open: 58250
+    Close: 55859
+    Hightest: 59519
+    Lowest: 54071
+  - Date: 2021-05-11
+    Open: 55847
+    Close: 56704
+    Hightest: 56872
+    Lowest: 54608
+  - Date: 2021-05-12
+    Open: 56714
+    Close: 49150
+    Hightest: 57939
+    Lowest: 49150
+  - Date: 2021-05-13
+    Open: 49735
+    Close: 49716
+    Hightest: 51330
+    Lowest: 46980
+  - Date: 2021-05-14
+    Open: 49682
+    Close: 49880
+    Hightest: 51438
+    Lowest: 48868
+  - Date: 2021-05-15
+    Open: 49855
+    Close: 46760
+    Hightest: 50639
+    Lowest: 46664
+  - Date: 2021-05-16
+    Open: 46716
+    Close: 46456
+    Hightest: 49720
+    Lowest: 43963
+  - Date: 2021-05-17
+    Open: 46415
+    Close: 43537
+    Hightest: 46623
+    Lowest: 42207
+  - Date: 2021-05-18
+    Open: 43488
+    Close: 42909
+    Hightest: 45812
+    Lowest: 42367
+  - Date: 2021-05-19
+    Open: 42944
+    Close: 37002
+    Hightest: 43546
+    Lowest: 30681
+  - Date: 2021-05-20
+    Open: 36753
+    Close: 40782
+    Hightest: 42462
+    Lowest: 35050
+  - Date: 2021-05-21
+    Open: 40596
+    Close: 37304
+    Hightest: 42172
+    Lowest: 33616
+  - Date: 2021-05-22
+    Open: 37371
+    Close: 37536
+    Hightest: 38831
+    Lowest: 35383
+  - Date: 2021-05-23
+    Open: 37531
+    Close: 34770
+    Hightest: 38289
+    Lowest: 31227
+  - Date: 2021-05-24
+    Open: 34700
+    Close: 38705
+    Hightest: 39835
+    Lowest: 34551
+  - Date: 2021-05-25
+    Open: 38795
+    Close: 38402
+    Hightest: 39776
+    Lowest: 36581
+  - Date: 2021-05-26
+    Open: 38392
+    Close: 39294
+    Hightest: 40782
+    Lowest: 37905
+  - Date: 2021-05-27
+    Open: 39316
+    Close: 38436
+    Hightest: 40379
+    Lowest: 37247
+  - Date: 2021-05-28
+    Open: 38507
+    Close: 35697
+    Hightest: 38856
+    Lowest: 34779
+  - Date: 2021-05-29
+    Open: 35684
+    Close: 34616
+    Hightest: 37234
+    Lowest: 33693
+  - Date: 2021-05-30
+    Open: 34607
+    Close: 35678
+    Hightest: 36400
+    Lowest: 33520
+  - Date: 2021-05-31
+    Open: 35658
+    Close: 37332
+    Hightest: 37468
+    Lowest: 34241
+  - Date: 2021-06-01
+    Open: 37293
+    Close: 36684
+    Hightest: 37896
+    Lowest: 35787
+  - Date: 2021-06-02
+    Open: 36699
+    Close: 37575
+    Hightest: 38231
+    Lowest: 35966
+  - Date: 2021-06-03
+    Open: 37599
+    Close: 39208
+    Hightest: 39478
+    Lowest: 37243
+  - Date: 2021-06-04
+    Open: 39242
+    Close: 36894
+    Hightest: 39242
+    Lowest: 35717
+  - Date: 2021-06-05
+    Open: 36880
+    Close: 35551
+    Hightest: 37917
+    Lowest: 34900
+  - Date: 2021-06-06
+    Open: 35538
+    Close: 35862
+    Hightest: 36436
+    Lowest: 35304
+  - Date: 2021-06-07
+    Open: 35835
+    Close: 33560
+    Hightest: 36790
+    Lowest: 33480
+  - Date: 2021-06-08
+    Open: 33589
+    Close: 33472
+    Hightest: 34017
+    Lowest: 31114
+  - Date: 2021-06-09
+    Open: 33416
+    Close: 37345
+    Hightest: 37537
+    Lowest: 32475
+  - Date: 2021-06-10
+    Open: 37389
+    Close: 36702
+    Hightest: 38334
+    Lowest: 35847
+  - Date: 2021-06-11
+    Open: 36697
+    Close: 37334
+    Hightest: 37608
+    Lowest: 36044
+  - Date: 2021-06-12
+    Open: 37340
+    Close: 35552
+    Hightest: 37408
+    Lowest: 34728
+  - Date: 2021-06-13
+    Open: 35555
+    Close: 39097
+    Hightest: 39322
+    Lowest: 34864
+  - Date: 2021-06-14
+    Open: 39016
+    Close: 40218
+    Hightest: 40978
+    Lowest: 38757
+  - Date: 2021-06-15
+    Open: 40427
+    Close: 40406
+    Hightest: 41295
+    Lowest: 39609
+  - Date: 2021-06-16
+    Open: 40168
+    Close: 38347
+    Hightest: 40516
+    Lowest: 38176
+  - Date: 2021-06-17
+    Open: 38341
+    Close: 38053
+    Hightest: 39513
+    Lowest: 37439
+  - Date: 2021-06-18
+    Open: 38099
+    Close: 35787
+    Hightest: 38187
+    Lowest: 35255
+  - Date: 2021-06-19
+    Open: 35854
+    Close: 35615
+    Hightest: 36457
+    Lowest: 34933
+  - Date: 2021-06-20
+    Open: 35563
+    Close: 35698
+    Hightest: 36059
+    Lowest: 33432
+  - Date: 2021-06-21
+    Open: 35641
+    Close: 31676
+    Hightest: 35721
+    Lowest: 31295
+  - Date: 2021-06-22
+    Open: 31622
+    Close: 32505
+    Hightest: 33292
+    Lowest: 28893
+  - Date: 2021-06-23
+    Open: 32515
+    Close: 33723
+    Hightest: 34753
+    Lowest: 31772
+  - Date: 2021-06-24
+    Open: 33682
+    Close: 34662
+    Hightest: 35228
+    Lowest: 32385
+  - Date: 2021-06-25
+    Open: 34659
+    Close: 31637
+    Hightest: 35487
+    Lowest: 31350
+  - Date: 2021-06-26
+    Open: 31594
+    Close: 32186
+    Hightest: 32637
+    Lowest: 30184
+  - Date: 2021-06-27
+    Open: 32287
+    Close: 34649
+    Hightest: 34656
+    Lowest: 32071
+  - Date: 2021-06-28
+    Open: 34679
+    Close: 34434
+    Hightest: 35219
+    Lowest: 33902
+  - Date: 2021-06-29
+    Open: 34475
+    Close: 35867
+    Hightest: 36542
+    Lowest: 34252
+  - Date: 2021-06-30
+    Open: 35908
+    Close: 35040
+    Hightest: 36074
+    Lowest: 34086
+  - Date: 2021-07-01
+    Open: 35035
+    Close: 33572
+    Hightest: 35035
+    Lowest: 32883
+  - Date: 2021-07-02
+    Open: 33549
+    Close: 33897
+    Hightest: 33939
+    Lowest: 32770
+  - Date: 2021-07-03
+    Open: 33854
+    Close: 34668
+    Hightest: 34909
+    Lowest: 33402
+  - Date: 2021-07-04
+    Open: 34665
+    Close: 35287
+    Hightest: 35937
+    Lowest: 34396
+  - Date: 2021-07-05
+    Open: 35284
+    Close: 33746
+    Hightest: 35284
+    Lowest: 33213
+  - Date: 2021-07-06
+    Open: 33723
+    Close: 34235
+    Hightest: 35038
+    Lowest: 33599
+  - Date: 2021-07-07
+    Open: 34225
+    Close: 33855
+    Hightest: 34997
+    Lowest: 33839
+  - Date: 2021-07-08
+    Open: 33889
+    Close: 32877
+    Hightest: 33907
+    Lowest: 32133
+  - Date: 2021-07-09
+    Open: 32861
+    Close: 33798
+    Hightest: 34042
+    Lowest: 32318
+  - Date: 2021-07-10
+    Open: 33811
+    Close: 33520
+    Hightest: 34209
+    Lowest: 33116
+  - Date: 2021-07-11
+    Open: 33509
+    Close: 34240
+    Hightest: 34584
+    Lowest: 33346
+  - Date: 2021-07-12
+    Open: 34254
+    Close: 33155
+    Hightest: 34592
+    Lowest: 32697
+  - Date: 2021-07-13
+    Open: 33125
+    Close: 32702
+    Hightest: 33327
+    Lowest: 32261
+  - Date: 2021-07-14
+    Open: 32723
+    Close: 32822
+    Hightest: 33061
+    Lowest: 31639
+  - Date: 2021-07-15
+    Open: 32827
+    Close: 31780
+    Hightest: 33159
+    Lowest: 31175
+  - Date: 2021-07-16
+    Open: 31841
+    Close: 31421
+    Hightest: 32218
+    Lowest: 31100
+  - Date: 2021-07-17
+    Open: 31397
+    Close: 31533
+    Hightest: 31935
+    Lowest: 31223
+  - Date: 2021-07-18
+    Open: 31533
+    Close: 31796
+    Hightest: 32398
+    Lowest: 31215
+  - Date: 2021-07-19
+    Open: 31800
+    Close: 30817
+    Hightest: 31885
+    Lowest: 30563
+  - Date: 2021-07-20
+    Open: 30838
+    Close: 29807
+    Hightest: 31006
+    Lowest: 29360
+  - Date: 2021-07-21
+    Open: 29796
+    Close: 32110
+    Hightest: 32752
+    Lowest: 29526
+  - Date: 2021-07-22
+    Open: 32138
+    Close: 32313
+    Hightest: 32576
+    Lowest: 31745
+  - Date: 2021-07-23
+    Open: 32305
+    Close: 33581
+    Hightest: 33581
+    Lowest: 32057
+  - Date: 2021-07-24
+    Open: 33593
+    Close: 34292
+    Hightest: 34490
+    Lowest: 33424
+  - Date: 2021-07-25
+    Open: 34290
+    Close: 35350
+    Hightest: 35364
+    Lowest: 33881
+  - Date: 2021-07-26
+    Open: 35384
+    Close: 37337
+    Hightest: 40499
+    Lowest: 35287
+  - Date: 2021-07-27
+    Open: 37276
+    Close: 39406
+    Hightest: 39406
+    Lowest: 36441
+  - Date: 2021-07-28
+    Open: 39503
+    Close: 39995
+    Hightest: 40816
+    Lowest: 38862
+  - Date: 2021-07-29
+    Open: 39995
+    Close: 40008
+    Hightest: 40593
+    Lowest: 39352
+  - Date: 2021-07-30
+    Open: 40027
+    Close: 42235
+    Hightest: 42235
+    Lowest: 38397
+  - Date: 2021-07-31
+    Open: 42196
+    Close: 41626
+    Hightest: 42231
+    Lowest: 41110
+  - Date: 2021-08-01
+    Open: 41460
+    Close: 39974
+    Hightest: 42541
+    Lowest: 39540
+  - Date: 2021-08-02
+    Open: 39907
+    Close: 39201
+    Hightest: 40419
+    Lowest: 38746
+  - Date: 2021-08-03
+    Open: 39178
+    Close: 38152
+    Hightest: 39750
+    Lowest: 37782
+  - Date: 2021-08-04
+    Open: 38213
+    Close: 39747
+    Hightest: 39952
+    Lowest: 37589
+  - Date: 2021-08-05
+    Open: 39744
+    Close: 40869
+    Hightest: 41341
+    Lowest: 37458
+  - Date: 2021-08-06
+    Open: 40865
+    Close: 42816
+    Hightest: 43271
+    Lowest: 39932
+  - Date: 2021-08-07
+    Open: 42832
+    Close: 44555
+    Hightest: 44689
+    Lowest: 42618
+  - Date: 2021-08-08
+    Open: 44574
+    Close: 43798
+    Hightest: 45282
+    Lowest: 43331
+  - Date: 2021-08-09
+    Open: 43791
+    Close: 46365
+    Hightest: 46456
+    Lowest: 42848
+  - Date: 2021-08-10
+    Open: 46280
+    Close: 45585
+    Hightest: 46637
+    Lowest: 44705
+  - Date: 2021-08-11
+    Open: 45599
+    Close: 45593
+    Hightest: 46735
+    Lowest: 45351
+  - Date: 2021-08-12
+    Open: 45576
+    Close: 44428
+    Hightest: 46228
+    Lowest: 43861
+  - Date: 2021-08-13
+    Open: 44439
+    Close: 47793
+    Hightest: 47831
+    Lowest: 44282
+  - Date: 2021-08-14
+    Open: 47810
+    Close: 47096
+    Hightest: 48098
+    Lowest: 46177
+  - Date: 2021-08-15
+    Open: 47096
+    Close: 47047
+    Hightest: 47357
+    Lowest: 45579
+  - Date: 2021-08-16
+    Open: 47019
+    Close: 46004
+    Hightest: 47998
+    Lowest: 45700
+  - Date: 2021-08-17
+    Open: 45936
+    Close: 44695
+    Hightest: 47139
+    Lowest: 44512
+  - Date: 2021-08-18
+    Open: 44686
+    Close: 44801
+    Hightest: 45952
+    Lowest: 44364
+  - Date: 2021-08-19
+    Open: 44741
+    Close: 46717
+    Hightest: 46970
+    Lowest: 43998
+  - Date: 2021-08-20
+    Open: 46723
+    Close: 49339
+    Hightest: 49342
+    Lowest: 46650
+  - Date: 2021-08-21
+    Open: 49327
+    Close: 48905
+    Hightest: 49717
+    Lowest: 48312
+  - Date: 2021-08-22
+    Open: 48869
+    Close: 49321
+    Hightest: 49471
+    Lowest: 48199
+  - Date: 2021-08-23
+    Open: 49291
+    Close: 49546
+    Hightest: 50482
+    Lowest: 49074
+  - Date: 2021-08-24
+    Open: 49562
+    Close: 47706
+    Hightest: 49878
+    Lowest: 47687
+  - Date: 2021-08-25
+    Open: 47727
+    Close: 48960
+    Hightest: 49202
+    Lowest: 47163
+  - Date: 2021-08-26
+    Open: 49002
+    Close: 46942
+    Hightest: 49347
+    Lowest: 46405
+  - Date: 2021-08-27
+    Open: 46894
+    Close: 49058
+    Hightest: 49112
+    Lowest: 46394
+  - Date: 2021-08-28
+    Open: 49072
+    Close: 48902
+    Hightest: 49283
+    Lowest: 48499
+  - Date: 2021-08-29
+    Open: 48911
+    Close: 48829
+    Hightest: 49644
+    Lowest: 47925
+  - Date: 2021-08-30
+    Open: 48834
+    Close: 47054
+    Hightest: 48925
+    Lowest: 46950
+  - Date: 2021-08-31
+    Open: 47024
+    Close: 47166
+    Hightest: 48189
+    Lowest: 46750
+  - Date: 2021-09-01
+    Open: 47099
+    Close: 48847
+    Hightest: 49111
+    Lowest: 46562
+  - Date: 2021-09-02
+    Open: 48807
+    Close: 49327
+    Hightest: 50343
+    Lowest: 48652
+  - Date: 2021-09-03
+    Open: 49288
+    Close: 50025
+    Hightest: 50982
+    Lowest: 48386
+  - Date: 2021-09-04
+    Open: 50009
+    Close: 49944
+    Hightest: 50545
+    Lowest: 49548
+  - Date: 2021-09-05
+    Open: 49937
+    Close: 51753
+    Hightest: 51868
+    Lowest: 49538
+  - Date: 2021-09-06
+    Open: 51769
+    Close: 52633
+    Hightest: 52700
+    Lowest: 51053
+  - Date: 2021-09-07
+    Open: 52660
+    Close: 46811
+    Hightest: 52853
+    Lowest: 43285
+  - Date: 2021-09-08
+    Open: 46827
+    Close: 46091
+    Hightest: 47334
+    Lowest: 44561
+  - Date: 2021-09-09
+    Open: 45774
+    Close: 46391
+    Hightest: 47261
+    Lowest: 45669
+  - Date: 2021-09-10
+    Open: 46396
+    Close: 44883
+    Hightest: 47031
+    Lowest: 44344
+  - Date: 2021-09-11
+    Open: 44869
+    Close: 45201
+    Hightest: 45969
+    Lowest: 44818
+  - Date: 2021-09-12
+    Open: 45206
+    Close: 46063
+    Hightest: 46364
+    Lowest: 44790
+  - Date: 2021-09-13
+    Open: 46114
+    Close: 44363
+    Hightest: 46345
+    Lowest: 43770
