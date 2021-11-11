@@ -38,11 +38,12 @@ public class CSVReader : ScriptableObject
 
         if (startRow < 1)
             startRow = 1;
+        if (startRow >= dataSize + 1)
+            startRow = dataSize;
         if(endRow > dataSize + 1)
-        {
             endRow = dataSize + 1;
-        }
-
+        if (endRow <= 0)
+            endRow = 2;
 
         loadData();
     }
